@@ -23,4 +23,6 @@ Kotlin · Jetpack Compose · Android · TypeScript · Electron · Swift · Claud
 
 #### 연락
 
-궁금한 게 있거나 같이 얘기해 보고 싶으시면 각 저장소 Issue에 편하게 남겨 주세요 !
+궁금한 게 있거나 같이 얘기해 보고 싶으시면 메일이나 각 저장소 Issue로 편하게 연락 주세요 !
+
+📮 [6951004@gmail.com](mailto:6951004@gmail.com)
