@@ -15,7 +15,7 @@ Android developer from Korea. I build small tools for Android debugging, Claude 
 - [hopbox](https://github.com/ESeungJun/hopbox) - 전체화면 데스크톱 사이로 파일·글·이미지를 옮겨 주는 택배상자예요.
 - [backstage](https://github.com/ESeungJun/backstage) - 맥에서 시간 맞춰 돌거나 백그라운드에 떠 있는 작업들을 메뉴바에서 한눈에 보여 줍니다.
 - [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - 포모도로 타이머랑 같이 키우는 픽셀아트 데스크톱 펫이에요. (비상업 팬 프로젝트)
-- [agent-interview-arena](https://github.com/ESeungJun/agent-interview-arena) - AI 에이전트 명세서를 서류·면접 단계로 검증해 보는 8비트 면접장입니다.
+
 
 #### 주로 쓰는 것
 
