@@ -14,6 +14,7 @@ Android developer from Korea. I build small tools for Android debugging, Claude 
 - [window-scape](https://github.com/ESeungJun/window-scape) - 오늘 날씨를 로우폴리 풍경으로 보여 주는 작은 창입니다.
 - [hopbox](https://github.com/ESeungJun/hopbox) - 전체화면 데스크톱 사이로 파일·글·이미지를 옮겨 주는 택배상자예요.
 - [backstage](https://github.com/ESeungJun/backstage) - 맥에서 시간 맞춰 돌거나 백그라운드에 떠 있는 작업들을 메뉴바에서 한눈에 보여 줍니다.
+- [smash](https://github.com/ESeungJun/smash) - 내가 정한 규칙대로 다운로드 폴더를 정리해 주는 앱이에요. 정리할 때마다 화면에 손바닥이 내려와 "찰싹!!" 합니다. (macOS·Windows)
 - [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - 포모도로 타이머랑 같이 키우는 픽셀아트 데스크톱 펫이에요. (비상업 팬 프로젝트)
 
 
