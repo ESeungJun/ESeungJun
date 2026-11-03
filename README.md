@@ -1,7 +1,5 @@
 ### 안녕하세요 ! Android 개발자 이승준(Haul)입니다 👋
 
-Android developer from Korea. I build small tools for Android debugging, Claude Code and macOS, mostly because I wanted them myself.
-
 평소엔 Android 앱을 만들고 있고요,
 요즘은 Claude Code랑 같이 이것저것 만들어 보는 중입니다.
 대부분 제가 쓰려고 만든 거라 크진 않은데
@@ -27,3 +25,37 @@ Kotlin · Jetpack Compose · Android · TypeScript · Electron · Swift · Claud
 궁금한 게 있거나 같이 얘기해 보고 싶으시면 메일이나 각 저장소 Issue로 편하게 연락 주세요 !
 
 📮 [6951004@gmail.com](mailto:6951004@gmail.com)
+
+<br>
+
+<details>
+<summary><b>English</b></summary>
+
+#### Hi! I'm Seungjun Lee (Haul), an Android developer from Korea 👋
+
+I build Android apps for a living,
+and lately I've been making all sorts of things together with Claude Code.
+Most of them started because I wanted them myself, so they're small,
+but I keep them public in case they turn out useful for someone else too.
+
+#### Things I made
+
+- [droidlens](https://github.com/ESeungJun/droidlens) - A Flipper alternative that inspects any Android app with just adb. Screen mirroring, view hierarchy, screen navigation and network, plus an MCP server for Claude Code.
+- [claude-bouncer](https://github.com/ESeungJun/claude-bouncer) - A pet on your screen bounces to let you know when a Claude Code session finishes or is waiting for input. (macOS · Windows)
+- [window-scape](https://github.com/ESeungJun/window-scape) - A small window that shows today's weather as a low-poly landscape.
+- [hopbox](https://github.com/ESeungJun/hopbox) - A parcel box that carries files, text and images between full-screen desktops.
+- [backstage](https://github.com/ESeungJun/backstage) - Shows the scheduled and background jobs on your Mac at a glance from the menu bar.
+- [smash](https://github.com/ESeungJun/smash) - Tidies up your Downloads folder by your own rules. Every time it cleans up, a hand comes down on the screen and goes "SMACK!!" (macOS · Windows)
+- [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - A pixel-art desktop pet you raise alongside a Pomodoro timer. (non-commercial fan project)
+
+#### What I mostly use
+
+Kotlin · Jetpack Compose · Android · TypeScript · Electron · Swift · Claude Code
+
+#### Contact
+
+If you have a question or just want to chat, feel free to reach out by email or through each repo's Issues!
+
+📮 [6951004@gmail.com](mailto:6951004@gmail.com)
+
+</details>
