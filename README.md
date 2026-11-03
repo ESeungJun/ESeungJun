@@ -1,6 +1,6 @@
 ### 안녕하세요 ! Android 개발자 이승준(Haul)입니다 👋
 
-평소엔 [번개장터](https://m.bunjang.co.kr/)에서 Android 앱을 만들고 있고요,
+평소엔 Android 앱을 만들고 있고요,
 요즘은 Claude Code랑 같이 이것저것 만들어 보는 중입니다.
 대부분 제가 쓰려고 만든 거라 크진 않은데
 혹시 누군가에게도 쓸모가 있을까 싶어서 공개해 두고 있어요.
@@ -22,7 +22,17 @@
 - [window-scape](https://github.com/ESeungJun/window-scape) - 오늘 날씨를 로우폴리 풍경으로 보여 주는 작은 창입니다.
 
 **토스 미니앱**
-- 토스 앱 안에서 도는 미니앱 10개를 출시했어요. 성향 테스트, 운세, 절약 기록, 퍼즐 게임 같은 것들이에요. (비공개 저장소)
+- 토스 앱 안에서 도는 미니앱 10개를 출시했어요. 토스 앱에서 이름으로 검색하면 나와요. (비공개 저장소)
+  - 머니트리 저축나무 - 아낀 돈만큼 자라는 나무
+  - 예민 농도 테스트 - 내 예민 농도는 몇 퍼센트
+  - 젬미 - 매일 세 팩씩 캐내는 광물 도감
+  - 어제보다 - 어제보다 추운지 더운지 한눈에
+  - 오늘 사주 - 오늘 하루 운세를 점수로
+  - 땅도장 - 가 본 동네마다 도장 찍는 여행 기록
+  - 오늘의 냥탑 - 하루 한 번 고양이와 탑 쌓기
+  - 찰칵레시피 - 재료 찍으면 레시피 추천
+  - 댕댕도감 - 산책길 강아지 견종 도감
+  - 가로세로 숫자퍼즐 - 색과 숫자로 채우는 가로세로
 
 **재미로 만든 것**
 - [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - 포모도로 타이머랑 같이 키우는 픽셀아트 데스크톱 펫이에요. (비상업 팬 프로젝트)
@@ -44,7 +54,7 @@ Kotlin · Jetpack Compose · Android · TypeScript · Electron · Swift · Claud
 
 #### Hi, I'm Seungjun Lee (Haul) 👋
 
-Android developer from Korea, building the Android app at [Bunjang](https://m.bunjang.co.kr/), a second-hand marketplace.
+Android developer from Korea.
 
 Outside of work, these days I'm making all sorts of things together with Claude Code.
 Most of them are small tools I made because I wanted them myself —
@@ -67,7 +77,17 @@ I've made them public in case they're useful to someone else too.
 - [window-scape](https://github.com/ESeungJun/window-scape) - A little window on your desktop that shows today's weather as a living low-poly landscape.
 
 **Toss mini apps**
-- Shipped 10 mini apps that run inside the Toss app — personality tests, fortune telling, a savings tracker, puzzle games and more. (private repos)
+- Shipped 10 mini apps that run inside the Toss app. Search for them by name in Toss. (private repos)
+  - Money Tree (머니트리 저축나무) - A tree that grows with every won you save
+  - Sensitivity Test (예민 농도 테스트) - How sensitive are you, in percent?
+  - Gemmi (젬미) - A mineral collection you dig up three packs a day
+  - Eojeboda (어제보다) - Colder or warmer than yesterday, at a glance
+  - Today Saju (오늘 사주) - Today's fortune as a score
+  - Ttangdojang (땅도장) - A travel log that stamps every neighborhood you visit
+  - Today Cat Tower (오늘의 냥탑) - Stack a tower with cats, once a day
+  - Chalkak Recipe (찰칵레시피) - Snap your ingredients, get recipe ideas
+  - Daengdaengdogam (댕댕도감) - A field guide to the dog breeds you meet on walks
+  - Number Crossword (가로세로 숫자퍼즐) - A crossword you fill with colors and numbers
 
 **Just for fun**
 - [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - A pixel-art desktop pet you raise alongside a Pomodoro focus timer. (non-commercial fan project)
