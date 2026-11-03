@@ -22,17 +22,17 @@
 - [window-scape](https://github.com/ESeungJun/window-scape) - 오늘 날씨를 로우폴리 풍경으로 보여 주는 작은 창입니다.
 
 **토스 미니앱**
-- 토스 앱 안에서 도는 미니앱 10개를 출시했어요. 토스 앱에서 이름으로 검색하면 나와요. (비공개 저장소)
-  - 머니트리 저축나무 - 아낀 돈만큼 자라는 나무
+- 토스 앱 안에서 도는 미니앱 10개를 출시했어요. 이름을 누르면 토스에서 바로 열려요. (비공개 저장소)
+  - [머니트리 저축나무](https://tossminiapp.com/s/5qt0o6C9) - 아낀 돈만큼 자라는 나무
   - 예민 농도 테스트 - 내 예민 농도는 몇 퍼센트
-  - 젬미 - 매일 세 팩씩 캐내는 광물 도감
-  - 어제보다 - 어제보다 추운지 더운지 한눈에
-  - 오늘 사주 - 오늘 하루 운세를 점수로
-  - 땅도장 - 가 본 동네마다 도장 찍는 여행 기록
-  - 오늘의 냥탑 - 하루 한 번 고양이와 탑 쌓기
-  - 찰칵레시피 - 재료 찍으면 레시피 추천
-  - 댕댕도감 - 산책길 강아지 견종 도감
-  - 가로세로 숫자퍼즐 - 색과 숫자로 채우는 가로세로
+  - [젬미](https://tossminiapp.com/s/Pdi6l0Qi) - 매일 세 팩씩 캐내는 광물 도감
+  - [어제보다](https://tossminiapp.com/s/RtEvw8Iv) - 어제보다 추운지 더운지 한눈에
+  - [오늘 사주](https://tossminiapp.com/s/NfkKV5A5) - 오늘 하루 운세를 점수로
+  - [땅도장](https://tossminiapp.com/s/J6ENHC81) - 가 본 동네마다 도장 찍는 여행 기록
+  - [오늘의 냥탑](https://tossminiapp.com/s/58R6wgg7) - 하루 한 번 고양이와 탑 쌓기
+  - [찰칵레시피](https://tossminiapp.com/s/P3ZYr6Vi) - 재료 찍으면 레시피 추천
+  - [댕댕도감](https://tossminiapp.com/s/DTPuZV46) - 산책길 강아지 견종 도감
+  - [가로세로 숫자퍼즐](https://tossminiapp.com/s/lVE9w1Fx) - 색과 숫자로 채우는 가로세로
 
 **재미로 만든 것**
 - [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - 포모도로 타이머랑 같이 키우는 픽셀아트 데스크톱 펫이에요. (비상업 팬 프로젝트)
@@ -77,17 +77,17 @@ I've made them public in case they're useful to someone else too.
 - [window-scape](https://github.com/ESeungJun/window-scape) - A little window on your desktop that shows today's weather as a living low-poly landscape.
 
 **Toss mini apps**
-- Shipped 10 mini apps that run inside the Toss app. Search for them by name in Toss. (private repos)
-  - Money Tree (머니트리 저축나무) - A tree that grows with every won you save
+- Shipped 10 mini apps that run inside the Toss app. Tap a name to open it in Toss. (private repos)
+  - [Money Tree (머니트리 저축나무)](https://tossminiapp.com/s/5qt0o6C9) - A tree that grows with every won you save
   - Sensitivity Test (예민 농도 테스트) - How sensitive are you, in percent?
-  - Gemmi (젬미) - A mineral collection you dig up three packs a day
-  - Eojeboda (어제보다) - Colder or warmer than yesterday, at a glance
-  - Today Saju (오늘 사주) - Today's fortune as a score
-  - Ttangdojang (땅도장) - A travel log that stamps every neighborhood you visit
-  - Today Cat Tower (오늘의 냥탑) - Stack a tower with cats, once a day
-  - Chalkak Recipe (찰칵레시피) - Snap your ingredients, get recipe ideas
-  - Daengdaengdogam (댕댕도감) - A field guide to the dog breeds you meet on walks
-  - Number Crossword (가로세로 숫자퍼즐) - A crossword you fill with colors and numbers
+  - [Gemmi (젬미)](https://tossminiapp.com/s/Pdi6l0Qi) - A mineral collection you dig up three packs a day
+  - [Eojeboda (어제보다)](https://tossminiapp.com/s/RtEvw8Iv) - Colder or warmer than yesterday, at a glance
+  - [Today Saju (오늘 사주)](https://tossminiapp.com/s/NfkKV5A5) - Today's fortune as a score
+  - [Ttangdojang (땅도장)](https://tossminiapp.com/s/J6ENHC81) - A travel log that stamps every neighborhood you visit
+  - [Today Cat Tower (오늘의 냥탑)](https://tossminiapp.com/s/58R6wgg7) - Stack a tower with cats, once a day
+  - [Chalkak Recipe (찰칵레시피)](https://tossminiapp.com/s/P3ZYr6Vi) - Snap your ingredients, get recipe ideas
+  - [Daengdaengdogam (댕댕도감)](https://tossminiapp.com/s/DTPuZV46) - A field guide to the dog breeds you meet on walks
+  - [Number Crossword (가로세로 숫자퍼즐)](https://tossminiapp.com/s/lVE9w1Fx) - A crossword you fill with colors and numbers
 
 **Just for fun**
 - [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - A pixel-art desktop pet you raise alongside a Pomodoro focus timer. (non-commercial fan project)
