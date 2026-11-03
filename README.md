@@ -24,7 +24,7 @@
 **토스 미니앱**
 - 토스 앱 안에서 도는 미니앱 10개를 출시했어요. 이름을 누르면 토스에서 바로 열려요. (비공개 저장소)
   - [머니트리 저축나무](https://tossminiapp.com/s/5qt0o6C9) - 아낀 돈만큼 자라는 나무
-  - 예민 농도 테스트 - 내 예민 농도는 몇 퍼센트
+  - [예민 농도 테스트](https://tossminiapp.com/s/h7wuPZ4o) - 내 예민 농도는 몇 퍼센트
   - [젬미](https://tossminiapp.com/s/Pdi6l0Qi) - 매일 세 팩씩 캐내는 광물 도감
   - [어제보다](https://tossminiapp.com/s/RtEvw8Iv) - 어제보다 추운지 더운지 한눈에
   - [오늘 사주](https://tossminiapp.com/s/NfkKV5A5) - 오늘 하루 운세를 점수로
@@ -79,7 +79,7 @@ I've made them public in case they're useful to someone else too.
 **Toss mini apps**
 - Shipped 10 mini apps that run inside the Toss app. Tap a name to open it in Toss. (private repos)
   - [Money Tree (머니트리 저축나무)](https://tossminiapp.com/s/5qt0o6C9) - A tree that grows with every won you save
-  - Sensitivity Test (예민 농도 테스트) - How sensitive are you, in percent?
+  - [Sensitivity Test (예민 농도 테스트)](https://tossminiapp.com/s/h7wuPZ4o) - How sensitive are you, in percent?
   - [Gemmi (젬미)](https://tossminiapp.com/s/Pdi6l0Qi) - A mineral collection you dig up three packs a day
   - [Eojeboda (어제보다)](https://tossminiapp.com/s/RtEvw8Iv) - Colder or warmer than yesterday, at a glance
   - [Today Saju (오늘 사주)](https://tossminiapp.com/s/NfkKV5A5) - Today's fortune as a score
