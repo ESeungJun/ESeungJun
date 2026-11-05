@@ -36,6 +36,7 @@
 
 **재미로 만든 것**
 - [poketmon_idle](https://github.com/ESeungJun/poketmon_idle) - 포모도로 타이머랑 같이 키우는 픽셀아트 데스크톱 펫이에요. (비상업 팬 프로젝트)
+- [sky-doodle](https://github.com/ESeungJun/sky-doodle) - 그린 그림이 뭉게구름이 되어 하늘로 떠올라요. 다른 사람이 그린 구름도 검수를 거쳐 같이 흘러갑니다. (웹)
 
 #### 주로 쓰는 것
 
